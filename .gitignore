@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Cypress generated files
+cypress/videos/
+cypress/screenshots/
+
+# Generated test cases
+cypress/e2e/*.cy.js
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Keep Cypress configuration and support files
+!cypress/e2e/.gitkeep
+!cypress/support/
+!cypress.config.js
