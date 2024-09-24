@@ -1,0 +1,828 @@
+{
+  "name": "Login",
+  "type": "FRAME",
+  "visible": true,
+  "x": -720,
+  "y": -513,
+  "width": 1440,
+  "height": 1024,
+  "rotation": 0,
+  "opacity": 1,
+  "cornerRadius": 0,
+  "cornerSmoothing": 0,
+  "constraints": {
+    "horizontal": "MIN",
+    "vertical": "MIN"
+  },
+  "fills": [
+    {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9333333373069763,
+        "g": 0.9490196108818054,
+        "b": 0.9607843160629272
+      },
+      "boundVariables": {}
+    }
+  ],
+  "strokeCap": "NONE",
+  "strokeJoin": "MITER",
+  "strokeMiterLimit": 4,
+  "strokeStyleId": "",
+  "strokeWeight": 1,
+  "children": [
+    {
+      "name": "Rectangle 1",
+      "type": "RECTANGLE",
+      "visible": true,
+      "x": 1012,
+      "y": 167,
+      "width": 585,
+      "height": 690,
+      "rotation": -180,
+      "opacity": 1,
+      "cornerRadius": 4,
+      "cornerSmoothing": 0,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    },
+    {
+      "name": "Back to your digital life",
+      "type": "TEXT",
+      "visible": true,
+      "x": 507,
+      "y": 252,
+      "width": 334,
+      "height": 36,
+      "rotation": 0,
+      "opacity": 1,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "characters": "Back to your digital life",
+      "fontSize": 30,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "fontName": {
+        "family": "Inter",
+        "style": "Bold"
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.16249999403953552,
+            "g": 0.16249999403953552,
+            "b": 0.16249999403953552
+          },
+          "boundVariables": {}
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    },
+    {
+      "name": "Choose one of the option to go",
+      "type": "TEXT",
+      "visible": true,
+      "x": 507,
+      "y": 300,
+      "width": 253,
+      "height": 23,
+      "rotation": 0,
+      "opacity": 1,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "characters": "Choose one of the option to go",
+      "fontSize": 18,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "fontName": {
+        "family": "IBM Plex Serif",
+        "style": "Regular"
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.3291666805744171,
+            "g": 0.3291666805744171,
+            "b": 0.3291666805744171
+          },
+          "boundVariables": {}
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    },
+    {
+      "name": "Rectangle 2",
+      "type": "RECTANGLE",
+      "visible": true,
+      "x": 507,
+      "y": 372,
+      "width": 440,
+      "height": 69,
+      "rotation": 0,
+      "opacity": 1,
+      "cornerRadius": 10,
+      "cornerSmoothing": 0,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1,
+      "strokes": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.5416666269302368,
+            "g": 0.7524999976158142,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ]
+    },
+    {
+      "name": "Rectangle 3",
+      "type": "RECTANGLE",
+      "visible": true,
+      "x": 507,
+      "y": 457,
+      "width": 440,
+      "height": 69,
+      "rotation": 0,
+      "opacity": 1,
+      "cornerRadius": 10,
+      "cornerSmoothing": 0,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1,
+      "strokes": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9019607901573181,
+            "g": 0.9019607901573181,
+            "b": 0.9019607901573181
+          },
+          "boundVariables": {}
+        }
+      ]
+    },
+    {
+      "name": "get@ziontutorial.com",
+      "type": "TEXT",
+      "visible": true,
+      "x": 543,
+      "y": 396,
+      "width": 164,
+      "height": 19,
+      "rotation": 0,
+      "opacity": 1,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "characters": "get@ziontutorial.com",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "style-fills": [
+        {
+          "characters": "get",
+          "start": 0,
+          "end": 3,
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.04583333432674408,
+                "g": 0.04583333432674408,
+                "b": 0.04583333432674408
+              },
+              "boundVariables": {}
+            }
+          ]
+        },
+        {
+          "characters": "@",
+          "start": 3,
+          "end": 4,
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.3083333373069763,
+                "g": 0.3083333373069763,
+                "b": 0.3083333373069763
+              },
+              "boundVariables": {}
+            }
+          ]
+        },
+        {
+          "characters": "ziontutorial.com",
+          "start": 4,
+          "end": 20,
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+              },
+              "boundVariables": {}
+            }
+          ]
+        }
+      ],
+      "style-fontName": [
+        {
+          "characters": "get",
+          "start": 0,
+          "end": 3,
+          "fontName": {
+            "family": "Inter",
+            "style": "Medium"
+          }
+        },
+        {
+          "characters": "@",
+          "start": 3,
+          "end": 4,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular"
+          }
+        },
+        {
+          "characters": "ziontutorial.com",
+          "start": 4,
+          "end": 20,
+          "fontName": {
+            "family": "Inter",
+            "style": "Medium"
+          }
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    },
+    {
+      "name": "Password",
+      "type": "TEXT",
+      "visible": true,
+      "x": 543,
+      "y": 481,
+      "width": 74,
+      "height": 19,
+      "rotation": 0,
+      "opacity": 1,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "characters": "Password",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "fontName": {
+        "family": "Inter",
+        "style": "Regular"
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.3083333373069763,
+            "g": 0.3083333373069763,
+            "b": 0.3083333373069763
+          },
+          "boundVariables": {}
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    },
+    {
+      "name": "Or continue with",
+      "type": "TEXT",
+      "visible": true,
+      "x": 507,
+      "y": 573,
+      "width": 125,
+      "height": 19,
+      "rotation": 0,
+      "opacity": 1,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "characters": "Or continue with",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "fontName": {
+        "family": "Inter",
+        "style": "Regular"
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.3083333373069763,
+            "g": 0.3083333373069763,
+            "b": 0.3083333373069763
+          },
+          "boundVariables": {}
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    },
+    {
+      "name": "Line 1",
+      "type": "LINE",
+      "visible": true,
+      "x": 641,
+      "y": 582,
+      "width": 304,
+      "height": 0,
+      "rotation": 0,
+      "opacity": 1,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 0.5,
+      "strokes": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9061849117279053,
+            "g": 0.9061849117279053,
+            "b": 0.9061849117279053
+          },
+          "boundVariables": {}
+        }
+      ]
+    },
+    {
+      "name": "Rectangle 4",
+      "type": "RECTANGLE",
+      "visible": true,
+      "x": 507,
+      "y": 628,
+      "width": 131,
+      "height": 67,
+      "rotation": 0,
+      "opacity": 1,
+      "cornerRadius": 4,
+      "cornerSmoothing": 0,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9686274528503418,
+            "g": 0.9686274528503418,
+            "b": 0.9686274528503418
+          },
+          "boundVariables": {}
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    },
+    {
+      "name": "Rectangle 5",
+      "type": "RECTANGLE",
+      "visible": true,
+      "x": 659,
+      "y": 624,
+      "width": 136,
+      "height": 71,
+      "rotation": 0,
+      "opacity": 1,
+      "cornerRadius": 4,
+      "cornerSmoothing": 0,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9686274528503418,
+            "g": 0.9686274528503418,
+            "b": 0.9686274528503418
+          },
+          "boundVariables": {}
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    },
+    {
+      "name": "Rectangle 6",
+      "type": "RECTANGLE",
+      "visible": true,
+      "x": 810,
+      "y": 624,
+      "width": 137,
+      "height": 71,
+      "rotation": 0,
+      "opacity": 1,
+      "cornerRadius": 4,
+      "cornerSmoothing": 0,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9686274528503418,
+            "g": 0.9686274528503418,
+            "b": 0.9686274528503418
+          },
+          "boundVariables": {}
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    },
+    {
+      "name": "Group 1",
+      "type": "GROUP",
+      "visible": true,
+      "x": 563,
+      "y": 742,
+      "width": 312,
+      "height": 62,
+      "rotation": 0,
+      "opacity": 1,
+      "children": [
+        {
+          "name": "Rectangle 7",
+          "type": "RECTANGLE",
+          "visible": true,
+          "x": 563,
+          "y": 742,
+          "width": 312,
+          "height": 62,
+          "rotation": 0,
+          "opacity": 1,
+          "cornerRadius": 8,
+          "cornerSmoothing": 0,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.0117647061124444,
+                "g": 0.4000000059604645,
+                "b": 1
+              },
+              "boundVariables": {}
+            }
+          ],
+          "strokeCap": "NONE",
+          "strokeJoin": "MITER",
+          "strokeMiterLimit": 4,
+          "strokeStyleId": "",
+          "strokeWeight": 1
+        },
+        {
+          "name": "Log in",
+          "type": "TEXT",
+          "visible": true,
+          "x": 696,
+          "y": 763,
+          "width": 47,
+          "height": 21,
+          "rotation": 0,
+          "opacity": 1,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "characters": "Log in",
+          "fontSize": 16,
+          "textAlignHorizontal": "LEFT",
+          "textAlignVertical": "TOP",
+          "fontName": {
+            "family": "IBM Plex Serif",
+            "style": "Regular"
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 1,
+                "g": 1,
+                "b": 1
+              },
+              "boundVariables": {}
+            }
+          ],
+          "strokeCap": "NONE",
+          "strokeJoin": "MITER",
+          "strokeMiterLimit": 4,
+          "strokeStyleId": "",
+          "strokeWeight": 1
+        }
+      ]
+    },
+    {
+      "name": "341350527_1184363148892088_4003333439020170582_n 2",
+      "type": "RECTANGLE",
+      "visible": true,
+      "x": 546,
+      "y": 637,
+      "width": 46,
+      "height": 45,
+      "rotation": 0,
+      "opacity": 1,
+      "cornerRadius": 0,
+      "cornerSmoothing": 0,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "src": "images/0764a300baaf8bf8fa2ad074b6fd49dd39f3309e.png",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "imageTransform": [
+            [0.04259259253740311, 0, 0.3333333432674408],
+            [0, 0.041666679084300995, 0.621296226978302]
+          ],
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageHash": "0764a300baaf8bf8fa2ad074b6fd49dd39f3309e"
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    },
+    {
+      "name": "341350527_1184363148892088_4003333439020170582_n 3",
+      "type": "RECTANGLE",
+      "visible": true,
+      "x": 855,
+      "y": 636,
+      "width": 48,
+      "height": 48,
+      "rotation": 0,
+      "opacity": 1,
+      "cornerRadius": 0,
+      "cornerSmoothing": 0,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "src": "images/0764a300baaf8bf8fa2ad074b6fd49dd39f3309e.png",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "imageTransform": [
+            [0.044444452971220016, 0, 0.6240740418434143],
+            [0, 0.04444444924592972, 0.6212962865829468]
+          ],
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageHash": "0764a300baaf8bf8fa2ad074b6fd49dd39f3309e"
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    },
+    {
+      "name": "341350527_1184363148892088_4003333439020170582_n 2",
+      "type": "RECTANGLE",
+      "visible": true,
+      "x": 698,
+      "y": 638,
+      "width": 59,
+      "height": 44,
+      "rotation": 0,
+      "opacity": 1,
+      "cornerRadius": 0,
+      "cornerSmoothing": 0,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "src": "images/0764a300baaf8bf8fa2ad074b6fd49dd39f3309e.png",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "imageTransform": [
+            [0.054629627615213394, 0, 0.4731481671333313],
+            [0, 0.04074074700474739, 0.6231481432914734]
+          ],
+          "scalingFactor": 0.5,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageHash": "0764a300baaf8bf8fa2ad074b6fd49dd39f3309e"
+        }
+      ],
+      "strokeCap": "NONE",
+      "strokeJoin": "MITER",
+      "strokeMiterLimit": 4,
+      "strokeStyleId": "",
+      "strokeWeight": 1
+    }
+  ]
+}
